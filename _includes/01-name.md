@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# MARKDOWN PORTFOLIO
+## ABOUT ME 
+### Name: Afsal Muhammad N <br /> place: Thiruvananthapuram <br/> College: College of engineering aranmula 
